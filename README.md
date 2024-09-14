@@ -1,6 +1,6 @@
-# Clack Clack
+# Click Clack
 
-Inspired by "Clack, Clack, Moo: Cows That Type"
+Inspired by "Click, Clack, Moo: Cows That Type" and the work of minimalist artist Carl Andre
 
 <blockquote>
 Dear Farmer Brown,<br>
