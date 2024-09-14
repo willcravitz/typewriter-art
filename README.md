@@ -1,1 +1,13 @@
-# typewriter-art
+# Clack Clack
+
+Inspired by "Clack, Clack, Moo: Cows That Type"
+
+<blockquote>
+Dear Farmer Brown,<br>
+The barn is very cold<br>
+at night.<br>
+We'd like some electric<br>
+blankets.<br>
+Sincerely,<br>
+The Cows
+</blockquote>
