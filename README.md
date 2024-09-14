@@ -2,10 +2,12 @@
 
 Inspired by "Clack, Clack, Moo: Cows That Type"
 
->Dear Farmer Brown,
->The barn is very cold
->at night.
->We'd like some electric
->blankets.
->Sincerely,
->The Cows
+<blockquote>
+Dear Farmer Brown,<br>
+The barn is very cold<br>
+at night.<br>
+We'd like some electric<br>
+blankets.<br>
+Sincerely,<br>
+The Cows
+</blockquote>
